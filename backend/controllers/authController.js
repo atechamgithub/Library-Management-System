@@ -29,5 +29,3 @@ export const signup = async (req, res) => {
   const user = new User({ username, password: hashedPassword });
 
 }
-//Uik3bbikAX4PDNpt
-//mongodb+srv://srivastavadarsh176:<Uik3bbikAX4PDNpt>@cluster0.61cxvno.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
